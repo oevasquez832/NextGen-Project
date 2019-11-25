@@ -3,7 +3,7 @@ import {
     View,
     Text,
   } from 'react-native'
-  export default class ScreenName extends React.Component {
+  export default class NewPassword extends React.Component {
     render() {
       return (
         <View style={styles.container}>
