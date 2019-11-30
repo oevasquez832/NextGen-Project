@@ -3,7 +3,7 @@ import {
   StyleSheet,
   View,
   Text,
-  TouchableOpacity,
+  TouchableOpacity
 } from 'react-native'
 
 export default class WelcomeScreen extends React.Component {
