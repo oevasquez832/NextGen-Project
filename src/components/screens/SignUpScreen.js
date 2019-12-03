@@ -9,7 +9,7 @@ import {
     render() {
       return (
         <View style={styles.container}>
-          <Text>Sign Up</Text>
+          <Text>Join NextGen!</Text>
         </View>
       )
     }
@@ -17,7 +17,7 @@ import {
   const styles = StyleSheet.create({
     container: {
       flex: 1,
-      backgroundColor: '#aa73b7',
+      backgroundColor: 'goldenrod',
       alignItems: 'center',
       justifyContent: 'center',
     },
