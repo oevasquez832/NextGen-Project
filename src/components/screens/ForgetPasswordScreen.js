@@ -9,7 +9,7 @@ import {
     render() {
       return (
         <View style={styles.container}>
-          <Text>Forgot Password?</Text>
+          <Text>Forget Password?</Text>
         </View>
       )
     }
